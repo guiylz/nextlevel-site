@@ -1,0 +1,4 @@
+Coloque aqui as fotos dos segmentos (de preferência .webp, ~1200px de largura).
+Depois aponte o caminho em src/data/siteConfig.js, no campo "image" de cada segmento.
+Exemplo: image: '/images/hotel.webp'
+Enquanto o campo estiver null, o site usa a composição ilustrada em CSS.
