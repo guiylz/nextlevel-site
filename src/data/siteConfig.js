@@ -38,7 +38,7 @@ export const siteConfig = {
     whatsappMessage:
       'Olá, NextLevel! Vim pelo site e quero entender como automatizar o atendimento da minha empresa.',
     // Instagram: apenas o @, sem a URL. Ex.: 'nextlevel.ia'
-    instagram: 'next1level',
+    instagram: 'nextl1evel',
     // E-mail comercial. Ex.: 'contato@nextlevel.com.br'
     email: 'nxlnextlevel.contato@gmail.com',
   },
